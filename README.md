@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail20.png" width="800">
+</p>
+
 # 🚦 Road Sign Recognition for Autonomous Vehicles
 
 An AI-powered Traffic Sign Recognition System built using **Convolutional Neural Networks (CNN)** and **PyQt5 GUI**.
@@ -88,7 +92,11 @@ Feel free to fork and improve this project!
 This project is open-source and free to use.
 
 ---
+## 🔗 Links
 
-## 💡 Author
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/road-sign-recognition-for-autonomous-vechicles.git)
 
-Developed by a passionate AI & Tech Enthusiast 🚀
+
+
